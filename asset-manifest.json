@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.053a0962.css",
+    "main.js": "/static/js/main.bccc70b0.js",
+    "static/media/AbhayaLibre-Regular.ttf": "/static/media/AbhayaLibre-Regular.e499645cd70dd9f19c67.ttf",
+    "static/media/Ethnique africaine motif géométrique typique.jpeg": "/static/media/Ethnique africaine motif géométrique typique.fdee064dba6a05d6cec6.jpeg",
+    "static/media/ABeeZee-Regular.ttf": "/static/media/ABeeZee-Regular.567c41f153027117352b.ttf",
+    "index.html": "/index.html",
+    "main.053a0962.css.map": "/static/css/main.053a0962.css.map",
+    "main.bccc70b0.js.map": "/static/js/main.bccc70b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.053a0962.css",
+    "static/js/main.bccc70b0.js"
+  ]
+}
